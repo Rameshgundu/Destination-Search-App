@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.places-container {
+  margin-top: 30px;
+}
+img {
+  height: 140px;
+  margin-right: 20px;
+}
+.place-name {
+  font-size: 11px;
+  color: #252627;
+  margin-bottom: 20px;
+}

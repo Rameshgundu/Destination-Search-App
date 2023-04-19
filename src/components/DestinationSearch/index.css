@@ -1,0 +1,35 @@
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+input {
+  width: 85%;
+  height: 30px;
+  background-color: #f1f5f9;
+  border: none;
+  outline: none;
+}
+.search-bar-container {
+  background-color: #f1f5f9;
+  height: 33px;
+  display: flex;
+  border: none;
+  border-radius: 10px;
+}
+.search-img {
+  height: 21px;
+  margin-top: 3px;
+  border: none;
+}
+button {
+  border: none;
+  border-radius: 10px;
+}
+.places-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 50%;
+}
